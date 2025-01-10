@@ -1,4 +1,4 @@
 ---
 title: "MY-TITLE"
-date: "YYYY-MM-DD"
+date: "2025-01-10"
 ---
